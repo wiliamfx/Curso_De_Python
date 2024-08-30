@@ -6,5 +6,5 @@ contador = 0
 # (vuelta, tras vuelta se verifica la condicion)
 while contador < 16:
     contador+= 1
-    print(contador)
+    print(f"el numero es {contador}")
     
